@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "name": "Chattogram",
+        "districts": [
+            {
+                "id": 1,
+                "name": "Comilla",
+                "division_id": 1,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Comilla Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Laksam"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Feni",
+                "division_id": 1,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Feni Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sonagazi"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dhaka",
+        "districts": [
+            {
+                "id": 1,
+                "name": "Dhaka",
+                "division_id": 2,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Tejgaon"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Gulshan"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Gazipur",
+                "division_id": 2,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Gazipur Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Tongi"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Rajshahi",
+        "districts": [
+            {
+                "id": 1,
+                "name": "Rajshahi",
+                "division_id": 3,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Rajshahi Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Godagari"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Natore",
+                "division_id": 3,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Natore Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Baraigram"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Khulna",
+        "districts": [
+            {
+                "id": 1,
+                "name": "Khulna",
+                "division_id": 4,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Khulna Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Dumuria"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Jessore",
+                "division_id": 4,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Jessore Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Bagherpara"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Barishal",
+        "districts": [
+            {
+                "id": 1,
+                "name": "Barishal",
+                "division_id": 5,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Barishal Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Bakerganj"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Patuakhali",
+                "division_id": 5,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Patuakhali Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Bauphal"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Sylhet",
+        "districts": [
+            {
+                "id": 1,
+                "name": "Sylhet",
+                "division_id": 6,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Sylhet Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Beanibazar"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Moulvibazar",
+                "division_id": 6,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Moulvibazar Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sreemangal"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Rangpur",
+        "districts": [
+            {
+                "id": 1,
+                "name": "Rangpur",
+                "division_id": 7,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Rangpur Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Pirganj"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Dinajpur",
+                "division_id": 7,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Dinajpur Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Birampur"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Mymensingh",
+        "districts": [
+            {
+                "id": 1,
+                "name": "Mymensingh",
+                "division_id": 8,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Mymensingh Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Trishal"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Jamalpur",
+                "division_id": 8,
+                "thanas": [
+                    {
+                        "id": 1,
+                        "name": "Jamalpur Sadar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sarishabari"
+                    }
+                ]
+            }
+        ]
+    }
+]
